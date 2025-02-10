@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bharathraj1614/TravelList/static/css/main.708779c1.css",
+    "main.js": "/bharathraj1614/TravelList/static/js/main.2c1ead71.js",
+    "index.html": "/bharathraj1614/TravelList/index.html",
+    "main.708779c1.css.map": "/bharathraj1614/TravelList/static/css/main.708779c1.css.map",
+    "main.2c1ead71.js.map": "/bharathraj1614/TravelList/static/js/main.2c1ead71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708779c1.css",
+    "static/js/main.2c1ead71.js"
+  ]
+}
